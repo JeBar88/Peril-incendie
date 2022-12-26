@@ -5,6 +5,7 @@ Le péril incendie correspond à un péril majeur en assurance dommages. Il est 
 ## Description des documents 
 Une brève description des documents qui compose le dépot
 - Code : toutes les fichiers des code neccessaire pour le projet
+    - test
 - Article : article lu et utilisé pour le projet
 - Data : les bases de données utiliser pour le projet
 - Image : les graphiques produit pour le projet
